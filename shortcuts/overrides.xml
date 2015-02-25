@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overrides>
+	<widget label="PVR Status">PVR</widget>
+	<widget label="Recently added movies">RecentMovies</widget>
+	<widget label="Recently added episodes">RecentEpisodes</widget>
+	<widget label="Recently added albums">RecentAlbums</widget>
+	<widgetdefault labelID="livetv">PVR</widgetdefault>
+	<widgetdefault labelID="movies">RecentMovies</widgetdefault>
+	<widgetdefault labelID="tvshows">RecentEpisodes</widgetdefault>
+	<widgetdefault labelID="music">RecentAlbums</widgetdefault>
+</overrides>
